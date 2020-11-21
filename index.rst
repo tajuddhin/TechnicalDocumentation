@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to E-commerce project using Java!
+HMS using SpringBoot
 ===============================================================
 
 .. toctree::
    :maxdepth: 2
    :numbered:
    
-   file1.md
+   introduction.md
    file2.md
    
    
